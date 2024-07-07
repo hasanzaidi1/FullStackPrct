@@ -13,6 +13,7 @@
   "author": "hasan z",
   "license": "ISC",
   "dependencies": {
-    "sillyname": "^0.1.0"
+    "sillyname": "^0.1.0",
+    "superheroes": "^4.0.0"
   }
 }
