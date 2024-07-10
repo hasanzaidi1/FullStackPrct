@@ -12,6 +12,7 @@
   ],
   "author": "hasan z",
   "license": "ISC",
+  "type": "module",
   "dependencies": {
     "sillyname": "^0.1.0",
     "superheroes": "^4.0.0"
